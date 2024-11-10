@@ -1,11 +1,11 @@
 <a href="https://app.vercel.pub">
   <img alt="Platforms Starter Kit" src="/public/thumbnail.png">
-  <h1 align="center">Platforms Starter Kit</h1>
+  <h1 align="center">Platforms Starter Kit - Portable Remix</h1>
 </a>
 
 <p align="center">
   The <em>all-in-one</em> starter kit <br/>
-  for building multi-tenant applications.
+  for building multi-tenant applications, modified for use with generic PostgresSQL
 </p>
 
 <p align="center">
